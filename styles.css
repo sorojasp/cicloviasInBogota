@@ -1,0 +1,15 @@
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+  }
+
+h3 {
+    background-color: aquamarine;
+}
+
+#gooleMap {
+    width: 100%;
+    height: 400px;
+    background-color:bisque;
+}
